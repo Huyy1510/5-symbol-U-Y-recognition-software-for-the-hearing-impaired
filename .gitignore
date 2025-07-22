@@ -1,0 +1,7 @@
+# Bỏ qua các file model lớn
+*.pth
+*.pt
+*.h5
+
+# Bỏ qua thư mục chứa model
+SourceCode/project/models/
